@@ -1,0 +1,11 @@
+/* basic reset and global styles */
+html,body,#root {
+  height:100%;
+  margin:0;
+}
+body {
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+  background:#f7f7f7;
+  color:#333;
+}
+a { color:#03a9f4; text-decoration:none; }
